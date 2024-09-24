@@ -1,0 +1,29 @@
+# Ichimoku Wave TP Indicator
+
+This project includes a custom indicator designed for analyzing price waves based on the Ichimoku trading system. The indicator identifies market trends, draws price waves, and calculates Take Profit (TP) levels to assist traders in making informed decisions.
+
+## Features
+- **Trend Analysis**: Utilizes Ichimoku indicators to identify bullish and bearish trends.
+- **Wave Drawing**: Automatically draws price waves based on trend direction.
+- **TP Calculation**: Determines TP levels based on price movements and customizable factors.
+- **Real-time Alerts**: Sends alerts for trend direction and TP levels.
+
+## How to Use
+1. Download the indicator and load it into your trading platform (MT4).
+2. Customize the indicator parameters (e.g., Ichimoku components) to fit your trading strategy.
+3. Run the indicator on your charts to receive real-time analysis and signals.
+
+## Installation
+1. Clone or download the repository.
+2. Copy the `IchimokuWaveTP.mq4` file into your MT4 `Indicators` folder.
+3. Restart your trading platform and add the indicator to your chart.
+
+## Requirements
+- MetaTrader 4 (MT4)
+- Basic understanding of the Ichimoku trading system and technical analysis.
+
+## Contributing
+Feel free to fork the repository and submit pull requests if you would like to contribute or suggest improvements. If you have any questions or need assistance, please don't hesitate to reach out.
+
+## License
+This project is licensed under the MIT License. For more information, please refer to the LICENSE file.
